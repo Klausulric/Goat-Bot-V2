@@ -29,7 +29,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Tamara bot",
   "FACEBOOK": "https://www.facebook.com/61554713117638",
-  "prefix": "✓",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
